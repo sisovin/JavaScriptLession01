@@ -14,7 +14,7 @@ This script is a step-by-step guide for beginners on how to use the Chrome brows
 
 Each step is designed to familiarize the user with interacting with JavaScript through the Chrome console, providing a hands-on way to learn basic programming concepts.
 
-1. Go to Chrome Browser, then type: about:blank (Ctrl + Shift + I) or at the address bar, type: https://supersimple.dev/js-basics/
+1. Go to Chrome Browser, then type: about:blank (Ctrl + Shift + I) or at the address bar, go to blank page of Chrome, then go to step 2 below.
 2. Right click, choose Inspect, the Chrome layout popup with the different pallette like Web page, Console, Element, source with style, Computed, EventListener etc.
 3. From the Console, type like: >// this is a comment press Enter the output is undefined
 4. > // data types, press Enter the output is undefined
